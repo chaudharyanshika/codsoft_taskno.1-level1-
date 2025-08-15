@@ -1,0 +1,17 @@
+#card{
+    height:200;
+    width: 300px;
+    border: 2px solid black;
+    box-shadow: 2px 4px 8px rgb(100,8,8);
+    transition:4s;
+} 
+
+img{
+    width: 100%;
+}
+#card:hover{
+    box-shadow: 0 4px 8px green;
+}
+header{
+    height: max-content;
+}
